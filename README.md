@@ -11,5 +11,5 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 Dependencies
 ---
 
-## [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) you should be good to go!   If not, you should install the starter kit to get started on this project. ##
+* [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)
 
